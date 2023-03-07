@@ -1,0 +1,1 @@
+0 1 * * * curl -X POST -H "content-type: multipart/form-data" -F document=@"/home/ubuntu/blog-haiconmeo-golang/test.db" -F chat_id="ChatID" https://api.telegram.org/botHAHAHA/sendDocument
